@@ -18,22 +18,22 @@ Welcome to **Startify**, your ultimate platform to showcase and explore startup 
 ## <a name="features">🌟 Features You'll Love</a>
 
 <h3>Engage with Startup Ideas</h3>
-**Dynamic Content** : The homepage stays fresh with real-time updates using Sanity’s Content API.
-**Minimal Design** : Focused, clutter-free layout for easy navigation.
+Dynamic Content : The homepage stays fresh with real-time updates using Sanity’s Content API.<br>
+Minimal Design : Focused, clutter-free layout for easy navigation.
 <br>
 
 <h3>Share and Explore</h3>
-**GitHub Login** : Sign in quickly using your GitHub account.
-**Pitch Submission** : Submit your ideas with titles, descriptions, categories, and multimedia.
-**Discover Pitches** : Browse ideas and filter them by category.
-**Pitch Details** : Detailed pages with multimedia and descriptions.
+GitHub Login : Sign in quickly using your GitHub account.<br>
+Pitch Submission : Submit your ideas with titles, descriptions, categories, and multimedia.<br>
+Discover Pitches : Browse ideas and filter them by category.<br>
+Pitch Details : Detailed pages with multimedia and descriptions.
 <br>
 
 <h3>Personalized Experience</h3>
-**User Profiles** : View all pitches you’ve submitted in one place.
-**Editor Picks** : Highlighted ideas chosen by admins using Sanity Studio.
-**Views Counter** : Track visibility for each pitch instead of traditional upvotes.
-**Search Functionality** : Quickly locate pitches with an efficient search tool.
+User Profiles : View all pitches you’ve submitted in one place.<br>
+Editor Picks : Highlighted ideas chosen by admins using Sanity Studio.<br>
+Views Counter : Track visibility for each pitch instead of traditional upvotes.<br>
+Search Functionality : Quickly locate pitches with an efficient search tool.
 
 
 
