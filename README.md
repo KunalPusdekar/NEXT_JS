@@ -18,7 +18,7 @@ Welcome to **Startify**, your ultimate platform to showcase and explore startup 
 ## <a name="features">🌟 Features You'll Love</a>
 
 <h3>Engage with Startup Ideas</h3>
-<ul>**Dynamic Content**: The homepage stays fresh with real-time updates using Sanity’s Content API.</ul>
+<ul> **Dynamic Content** : The homepage stays fresh with real-time updates using Sanity’s Content API.</ul>
 <ul>**Minimal Design**: Focused, clutter-free layout for easy navigation.</ul>
 <br>
 
@@ -34,6 +34,7 @@ Welcome to **Startify**, your ultimate platform to showcase and explore startup 
 <ul>**Editor Picks**: Highlighted ideas chosen by admins using Sanity Studio.</ul>
 <ul>**Views Counter**: Track visibility for each pitch instead of traditional upvotes</ul>
 <ul>**Search Functionality**: Quickly locate pitches with an efficient search tool.</ul>
+
 
 
 ## <a name="getting-started">🚀 Getting Started</a>
@@ -60,6 +61,7 @@ Install project dependencies with:
 ```bash
 npm install
 ```
+
 
 **Configure Environment Variables**
 
@@ -91,8 +93,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 ## <a name="links">📚 Resources</a>
 
 - Find fonts and assets for the project [here](https://drive.google.com/file/d/1OEFHnEq5pQFP86u8FOBLBBNxKPsbjjqU/view?usp=sharing)
-- [Learn Server Actions](https://youtu.be/FKZAXFjxlJI?feature=shared)
-- [Applicaton Workflow](https://miro.com/app/board/uXjVLT_tMdU=/?share_link_id=580854757703)
+
 
 
 **🔄 Take Your Skills to the Next Level**
