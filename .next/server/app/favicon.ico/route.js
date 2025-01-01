@@ -43,7 +43,7 @@ module.exports = require("next/dist/server/app-render/work-async-storage.externa
 
 /***/ }),
 
-/***/ "next/dist/server/app-render/work-unit-async-storage.external.js":
+/***/ "./work-unit-async-storage.external":
 /*!**********************************************************************************!*\
   !*** external "next/dist/server/app-render/work-unit-async-storage.external.js" ***!
   \**********************************************************************************/

@@ -26,16 +26,16 @@
       "static/chunks/main-app.js",
       "static/chunks/app/(root)/startup/[id]/page.js"
     ],
-    "/(root)/user/[id]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(root)/user/[id]/page.js"
-    ],
     "/(root)/startup/create/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/(root)/startup/create/page.css",
       "static/chunks/app/(root)/startup/create/page.js"
+    ],
+    "/(root)/user/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(root)/user/[id]/page.js"
     ]
   }
 }
