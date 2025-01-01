@@ -18,22 +18,22 @@ Welcome to **Startify**, your ultimate platform to showcase and explore startup 
 ## <a name="features">🌟 Features You'll Love</a>
 
 <h3>Engage with Startup Ideas</h3>
-<ul> **Dynamic Content** : The homepage stays fresh with real-time updates using Sanity’s Content API.</ul>
-<ul>**Minimal Design**: Focused, clutter-free layout for easy navigation.</ul>
+**Dynamic Content** : The homepage stays fresh with real-time updates using Sanity’s Content API.
+**Minimal Design** : Focused, clutter-free layout for easy navigation.
 <br>
 
 <h3>Share and Explore</h3>
-<ul>**GitHub Login**: Sign in quickly using your GitHub account.</ul>
-<ul>**Pitch Submission**: Submit your ideas with titles, descriptions, categories, and multimedia.</ul>
-<ul>**Discover Pitches**: Browse ideas and filter them by category.</ul>
-<ul>**Pitch Details**: Detailed pages with multimedia and descriptions.</ul>
+**GitHub Login** : Sign in quickly using your GitHub account.
+**Pitch Submission** : Submit your ideas with titles, descriptions, categories, and multimedia.
+**Discover Pitches** : Browse ideas and filter them by category.
+**Pitch Details** : Detailed pages with multimedia and descriptions.
 <br>
 
 <h3>Personalized Experience</h3>
-<ul>**User Profiles**: View all pitches you’ve submitted in one place.</ul>
-<ul>**Editor Picks**: Highlighted ideas chosen by admins using Sanity Studio.</ul>
-<ul>**Views Counter**: Track visibility for each pitch instead of traditional upvotes</ul>
-<ul>**Search Functionality**: Quickly locate pitches with an efficient search tool.</ul>
+**User Profiles** : View all pitches you’ve submitted in one place.
+**Editor Picks** : Highlighted ideas chosen by admins using Sanity Studio.
+**Views Counter** : Track visibility for each pitch instead of traditional upvotes.
+**Search Functionality** : Quickly locate pitches with an efficient search tool.
 
 
 
@@ -51,7 +51,7 @@ Make sure the following tools are installed:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/pitchify.git
+git clone https://github.com/KunalPusdekar/NEXT_JS.git
 ```
 
 **Installation**
