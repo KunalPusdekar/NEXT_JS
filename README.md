@@ -95,8 +95,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 - Find fonts and assets for the project [here](https://drive.google.com/file/d/1OEFHnEq5pQFP86u8FOBLBBNxKPsbjjqU/view?usp=sharing)
 
 
-
-** <a name="more">🔄 Take Your Skills to the Next Level </a> **
+## <a name="more">🔄 Take Your Skills to the Next Level</a>
 
 Loved working on Startify? Explore our Next.js Pro Course to dive deeper into advanced concepts, learn cutting-edge techniques, and tackle exciting challenges to enhance your expertise.
 
