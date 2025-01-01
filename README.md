@@ -96,7 +96,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 
 
-**🔄 Take Your Skills to the Next Level**
+** <a name="more">🔄 Take Your Skills to the Next Level </a> **
 
 Loved working on Startify? Explore our Next.js Pro Course to dive deeper into advanced concepts, learn cutting-edge techniques, and tackle exciting challenges to enhance your expertise.
 
