@@ -1,102 +1,102 @@
+<div align="center">
+<h1 align="center">Startify - Elevate Your Startup Journey </h1>
+</div>
 
-    <div class="bg-blue-600 text-white py-6">
-        <div class="container mx-auto px-4">
-            <h1 class="text-3xl font-bold">Startify - Elevate Your Startup Journey</h1>
-            <p>Your ultimate platform to showcase and explore startup ideas.</p>
-        </div>
-    </div>
+Welcome to **Startify**, your ultimate platform to showcase and explore startup ideas. Built with the latest **Next.js 15**, Startify offers a seamless experience for entrepreneurs to pitch their ideas, participate in virtual competitions, and discover innovative projects—all within a user-friendly interface.
 
-  
 
-        <div class="mb-12">
-            <h2 class="text-2xl font-semibold mb-4">🔧 Tech Stack Highlights</h2>
-            <ul class="list-disc ml-5">
-                <li><strong>React 19</strong></li>
-                <li><strong>Next.js 15</strong></li>
-                <li><strong>Sanity CMS</strong></li>
-                <li><strong>TailwindCSS</strong> for effortless styling</li>
-                <li><strong>ShadCN</strong> for reusable UI components</li>
-                <li><strong>TypeScript</strong> for type safety</li>
-            </ul>
-        </div>
+## <a name="tech-stack">🔧 Tech Stack Highlights</a>
 
-        <section class="mb-12">
-            <h2 class="text-2xl font-semibold mb-4">🌟 Features You'll Love</h2>
-            <div>
-                <h3 class="text-xl font-bold">Engage with Startup Ideas</h3>
-                <ul class="list-disc ml-5">
-                    <li><strong>Dynamic Content</strong>: The homepage stays fresh with real-time updates using Sanity’s Content API.</li>
-                    <li><strong>Minimal Design</strong>: Focused, clutter-free layout for easy navigation.</li>
-                </ul>
-            </div>
-            <div class="mt-6">
-                <h3 class="text-xl font-bold">Share and Explore</h3>
-                <ul class="list-disc ml-5">
-                    <li><strong>GitHub Login</strong>: Sign in quickly using your GitHub account.</li>
-                    <li><strong>Pitch Submission</strong>: Submit your ideas with titles, descriptions, categories, and multimedia (images/videos).</li>
-                    <li><strong>Discover Pitches</strong>: Browse ideas and filter them by category.</li>
-                    <li><strong>Pitch Details</strong>: Detailed pages with multimedia and descriptions.</li>
-                </ul>
-            </div>
-            <div class="mt-6">
-                <h3 class="text-xl font-bold">Personalized Experience</h3>
-                <ul class="list-disc ml-5">
-                    <li><strong>User Profiles</strong>: View all pitches you’ve submitted in one place.</li>
-                    <li><strong>Editor Picks</strong>: Highlighted ideas chosen by admins using Sanity Studio.</li>
-                    <li><strong>Views Counter</strong>: Track visibility for each pitch instead of traditional upvotes.</li>
-                    <li><strong>Search Functionality</strong>: Quickly locate pitches with an efficient search tool.</li>
-                </ul>
-            </div>
-        </section>
+- React 19
+- Next.js 15
+- Sanity
+- TailwindCSS
+- ShadCN
+- TypeScript
 
-        <section class="mb-12">
-            <h2 class="text-2xl font-semibold mb-4">🚀 Getting Started</h2>
-            <ol class="list-decimal ml-5">
-                <li>Ensure <strong>Git</strong>, <strong>Node.js</strong>, and <strong>npm</strong> are installed.</li>
-                <li>Clone the repository:
-                    <pre class="bg-gray-100 p-4 mt-2">
-<code>git clone https://github.com/JavaScript-Mastery-Pro/startify.git
-cd startify</code>
-                    </pre>
-                </li>
-                <li>Install dependencies:
-                    <pre class="bg-gray-100 p-4 mt-2">
-<code>npm install</code>
-                    </pre>
-                </li>
-                <li>Configure environment variables by creating a <code>.env.local</code> file in the root directory:
-                    <pre class="bg-gray-100 p-4 mt-2">
-<code>NEXT_PUBLIC_SANITY_PROJECT_ID=
+
+## <a name="features">🌟 Features You'll Love</a>
+
+<h3>Engage with Startup Ideas</h3>
+<ul>**Dynamic Content**: The homepage stays fresh with real-time updates using Sanity’s Content API.</ul>
+<ul>**Minimal Design**: Focused, clutter-free layout for easy navigation.</ul>
+<br>
+
+<h3>Share and Explore</h3>
+<ul>**GitHub Login**: Sign in quickly using your GitHub account.</ul>
+<ul>**Pitch Submission**: Submit your ideas with titles, descriptions, categories, and multimedia.</ul>
+<ul>**Discover Pitches**: Browse ideas and filter them by category.</ul>
+<ul>**Pitch Details**: Detailed pages with multimedia and descriptions.</ul>
+<br>
+
+<h3>Personalized Experience</h3>
+<ul>**User Profiles**: View all pitches you’ve submitted in one place.</ul>
+<ul>**Editor Picks**: Highlighted ideas chosen by admins using Sanity Studio.</ul>
+<ul>**Views Counter**: Track visibility for each pitch instead of traditional upvotes</ul>
+<ul>**Search Functionality**: Quickly locate pitches with an efficient search tool.</ul>
+
+
+## <a name="getting-started">🚀 Getting Started</a>
+Follow these steps to set up Startify locally:
+
+**Prerequisites**
+
+Make sure the following tools are installed:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/JavaScript-Mastery-Pro/pitchify.git
+```
+
+**Installation**
+
+Install project dependencies with:
+
+```bash
+npm install
+```
+
+**Configure Environment Variables**
+
+Create a .env.local file in the root directory and include the following keys:
+
+```env
+NEXT_PUBLIC_SANITY_PROJECT_ID=
 NEXT_PUBLIC_SANITY_DATASET=
 NEXT_PUBLIC_SANITY_API_VERSION='vX'
 SANITY_TOKEN=
 
-AUTH_SECRET=
+AUTH_SECRET= 
 AUTH_GITHUB_ID=
-AUTH_GITHUB_SECRET=</code>
-                    </pre>
-                </li>
-                <li>Start the project:
-                    <pre class="bg-gray-100 p-4 mt-2">
-<code>npm run dev</code>
-                    </pre>
-                </li>
-            </ol>
-        </section>
+AUTH_GITHUB_SECRET=
+```
 
-        <section class="mb-12">
-            <h2 class="text-2xl font-semibold mb-4">📚 Resources</h2>
-            <p>Find fonts and assets for the project <a href="#" class="text-blue-500">here</a>.</p>
-        </section>
+Replace the placeholder values with your actual Sanity credentials. You can obtain these credentials by signing up &
+creating a new project on the [Sanity website](https://www.sanity.io/).
 
-        <section class="mb-12">
-            <h2 class="text-2xl font-semibold mb-4">🔄 Take Your Skills to the Next Level</h2>
-            <p>Loved working on Startify? Explore our <strong>Next.js Pro Course</strong> to dive deeper into advanced concepts, learn cutting-edge techniques, and tackle exciting challenges to enhance your expertise.</p>
-        </section>
-    </main>
+**Running the Project**
 
-    <footer class="bg-gray-800 text-white py-4">
-        <div class="container mx-auto px-4 text-center">
-            <p>Enjoy building with Startify! Let your ideas shine. 🚀</p>
-        </div>
-    </footer>
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+
+
+## <a name="links">📚 Resources</a>
+
+- Find fonts and assets for the project [here](https://drive.google.com/file/d/1OEFHnEq5pQFP86u8FOBLBBNxKPsbjjqU/view?usp=sharing)
+- [Learn Server Actions](https://youtu.be/FKZAXFjxlJI?feature=shared)
+- [Applicaton Workflow](https://miro.com/app/board/uXjVLT_tMdU=/?share_link_id=580854757703)
+
+
+**🔄 Take Your Skills to the Next Level**
+
+Loved working on Startify? Explore our Next.js Pro Course to dive deeper into advanced concepts, learn cutting-edge techniques, and tackle exciting challenges to enhance your expertise.
+
+Enjoy building with Startify! Let your ideas shine. 🚀
