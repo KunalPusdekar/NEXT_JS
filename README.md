@@ -1,18 +1,14 @@
-<body class="bg-gray-50 text-gray-900">
-    <header class="bg-blue-600 text-white py-6">
+
+    <div class="bg-blue-600 text-white py-6">
         <div class="container mx-auto px-4">
             <h1 class="text-3xl font-bold">Startify - Elevate Your Startup Journey</h1>
             <p>Your ultimate platform to showcase and explore startup ideas.</p>
         </div>
-    </header>
+    </div>
 
-    <main class="container mx-auto px-4 py-8">
-        <section class="mb-12">
-            <h2 class="text-2xl font-semibold mb-4">🙋 Need Support?</h2>
-            <p>Stuck on something? Join our bustling <strong>Discord community</strong> of over <strong>34,000 members</strong>. Connect, share, and grow together with like-minded individuals.</p>
-        </section>
+  
 
-        <section class="mb-12">
+        <div class="mb-12">
             <h2 class="text-2xl font-semibold mb-4">🔧 Tech Stack Highlights</h2>
             <ul class="list-disc ml-5">
                 <li><strong>React 19</strong></li>
@@ -22,7 +18,7 @@
                 <li><strong>ShadCN</strong> for reusable UI components</li>
                 <li><strong>TypeScript</strong> for type safety</li>
             </ul>
-        </section>
+        </div>
 
         <section class="mb-12">
             <h2 class="text-2xl font-semibold mb-4">🌟 Features You'll Love</h2>
@@ -104,4 +100,3 @@ AUTH_GITHUB_SECRET=</code>
             <p>Enjoy building with Startify! Let your ideas shine. 🚀</p>
         </div>
     </footer>
-</body>
